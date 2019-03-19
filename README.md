@@ -2,6 +2,7 @@
 A simple isogram word guessing console-game.
 
 What is isogram
+
 -Isograms are words that does not include same letter more than once, e.g. watch is an isogram but egg is NOT an isogram
 
 How to Play
