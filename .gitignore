@@ -1,0 +1,16 @@
+Section_02.sln
+
+Section_02.sln.DotSettings.user
+
+/.vs/
+/
+Debug/
+
+/BullCowGame/BullCowGame.vcxproj
+/BullCowGame/BullCowGame.vcxproj.filters
+/BullCowGame/BullCowGame.vcxproj.user
+/BullCowGame/Debug/
+/BullCowGame/x64/
+/x64/Release/BullCowGame.iobj
+/x64/Release/BullCowGame.ipdb
+/x64/Release/BullCowGame.pdb
